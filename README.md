@@ -49,16 +49,11 @@ int value = 0;
 
 int status = WL_IDLE_STATUS;     // the starting Wifi radio's status
 
-
-
 #define DHTPIN 5    // Digital pin connected to the DHT sensor 
 
 // Uncomment the type of sensor in use:
 //#define DHTTYPE    DHT11     // DHT 11
 #define DHTTYPE    DHT22     // DHT 22 (AM2302)
-
-
-
 DHT_Unified dht(DHTPIN, DHTTYPE);
 
 uint32_t delayMS;
@@ -152,7 +147,6 @@ void reconnect() {
   }
 }
 
-
 void setup() {
   Serial.begin(115200);
   // Initialize device.
@@ -207,7 +201,6 @@ void loop() {
     temp=event.temperature;
   }
 
-  
   // Get humidity event and print its value.
   dht.humidity().getEvent(&event);
   float hum=0;
@@ -220,8 +213,6 @@ void loop() {
     Serial.println(F("%"));
     hum=event.relative_humidity;
   }
-
-
     // confirm still connected to mqtt server
   if (!client.connected()) {
     reconnect();
