@@ -244,7 +244,7 @@ Gunakan code dibawah ini untuk menjalankan web clientnya:
 <!doctype html>
 <html lang="en">
   <head>
-    <title>Kelompok </title>
+    <title>Kelompok 16</title>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -357,4 +357,8 @@ Gunakan code dibawah ini untuk menjalankan web clientnya:
 Kemudian setelah meng-copy code diatas, kita dapat melihat hasil HTML sebagai berikut:
 
 ![WebKel16](images/HTML-Web.png)
+
+Berikut merupakan demo kami untuk Project 1 (MQTT Temp Sensor):
+
+https://github.com/sgraa/Final-Project-IS/assets/77944902/39d66a49-c708-4400-b608-cfa60af7fc7a
 
