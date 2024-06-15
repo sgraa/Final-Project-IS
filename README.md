@@ -607,6 +607,6 @@ Berikut merupakan demo kami untuk Project 2 (MQTT Raspberry Pi Temp Sensor):
 https://github.com/sgraa/Final-Project-IS/assets/77944902/6fe6f3ea-a5e4-4302-b70f-548434e33bfb
 
 
-# Playlist Seluruh Video Project Integrasi Sistem Kelompok 16
+# Playlist Video Project Integrasi Sistem Kelompok 16
 
 [Klik Disini Untuk Mengakses Playlist](https://www.youtube.com/playlist?list=PLgqqETnX7yBTv3LYEsaWzaY-j_-A9vEAC)
