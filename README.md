@@ -230,9 +230,6 @@ void loop() {
   delay(5000);
 }
 ```
-
-Upload code di atas untuk menjalankan modul ESP8266 dan juga menghubungkannya ke sensor DHT22.
-
 ## HTML Code
 Gunakan code dibawah ini untuk menjalankan web clientnya:
 ```html
