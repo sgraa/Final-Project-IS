@@ -360,7 +360,8 @@ Kemudian setelah meng-copy code diatas, kita dapat melihat hasil HTML sebagai be
 
 Berikut merupakan demo kami untuk Project 1 (MQTT Temp Sensor):
 
-https://github.com/sgraa/Final-Project-IS/assets/77944902/39d66a49-c708-4400-b608-cfa60af7fc7a
+
+https://github.com/sgraa/Final-Project-IS/assets/77944902/33e4a961-9de0-4ab5-8647-149d51ea9794
 
 # Project 2
 
@@ -441,7 +442,7 @@ client.connect("152.42.194.14", 1883, 60)
 client.loop_forever()
 ```
 
-Upload code di atas untuk menjalankan modul ESP8266 dan juga menghubungkannya ke sensor DHT22.
+Upload code di atas untuk menjalankan modul Raspberry Pi dan juga menghubungkannya ke sensor DHT22.
 
 ## HTML Code
 Gunakan code dibawah ini untuk menjalankan web clientnya:
@@ -603,4 +604,7 @@ Kemudian setelah meng-copy code diatas, kita dapat melihat hasil HTML sebagai be
 
 Berikut merupakan demo kami untuk Project 2 (MQTT Raspberry Pi Temp Sensor):
 
+https://github.com/sgraa/Final-Project-IS/assets/77944902/6b02ef02-e9cd-4be9-a7b9-fa722b8f25c7
 
+# Playlist Seluruh Video Project Integrasi Sistem Kelompok 16
+[Klik Disini Untuk Mengakses Playlist](https://www.youtube.com/playlist?list=PLgqqETnX7yBTv3LYEsaWzaY-j_-A9vEAC)
