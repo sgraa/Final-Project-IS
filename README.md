@@ -12,11 +12,6 @@
 3. BreadBoard
 4. Kabel Jumper
 
-## Setup Hardware:
-1. Pin Out DHT - D1 (NodeMCU)
-2. Pin (+) DHT - 3v (NodeMCU)
-3. Pin (-) DHT - GND (NodeMCU)
-
 ## Dokumentasi Alat:
 ![Project1](images/Project1.jpeg)
 
