@@ -12,6 +12,11 @@
 3. BreadBoard
 4. Kabel Jumper
 
+## Setup Hardware:
+1. Pin Out DHT - D1 (NodeMCU)
+2. Pin (+) DHT - 3v (NodeMCU)
+3. Pin (-) DHT - GND (NodeMCU)
+
 ## Dokumentasi Alat:
 ![Project1](images/Project1.jpeg)
 
@@ -230,6 +235,9 @@ void loop() {
   delay(5000);
 }
 ```
+
+Upload code di atas untuk menjalankan modul ESP8266 dan juga menghubungkannya ke sensor DHT22.
+
 ## HTML Code
 Gunakan code dibawah ini untuk menjalankan web clientnya:
 ```html
@@ -362,11 +370,6 @@ https://github.com/sgraa/Final-Project-IS/assets/77944902/39d66a49-c708-4400-b60
 3. BreadBoard
 4. Kabel Jumper
 6. Lampu LED Mini
-
-## Setup Hardware:
-1. Pin Out DHT - D1 (NodeMCU)
-2. Pin (+) DHT - 3v (NodeMCU)
-3. Pin (-) DHT - GND (NodeMCU)
 
 ## Dokumentasi Alat:
 ![Project2](/images/Project2.png)
