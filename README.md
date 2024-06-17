@@ -449,7 +449,7 @@ Gunakan code dibawah ini untuk menjalankan web clientnya:
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Kelompok 6</title>
+    <title>Kelompok 16</title>
     <!-- Required meta tags -->
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
